@@ -1,0 +1,66 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header{  
+  background-color:black;
+  color:white;
+  padding: 30px 0px 40px 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.headerleft{
+  float:left;
+}
+
+.headermiddle{
+  float:left;
+  padding-left: 30px;
+}
+.headerright{
+  float:left;
+  padding-left: 30px;
+}
+.header2{
+  border: 1px solid gray;
+  padding: 20px;
+}
+
+.header2 span{
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.objective{
+  margin-top: 5px;
+  border: 1px solid gray;
+  padding: 20px;
+}
+
+.skill{
+  margin-top: 5px;
+  border: 1px solid gray;
+  padding: 20px;
+}
+.training{
+  margin-top: 5px;
+  border: 1px solid gray;
+  padding: 20px;
+}
+.language{
+  margin-top: 5px;
+  border: 1px solid gray;
+  padding: 20px;
+}
+.referees{
+  margin-top: 5px;
+  border: 1px solid gray;
+  padding: 20px;
+}
+
+
+  
+
+
+    
