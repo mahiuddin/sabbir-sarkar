@@ -13,6 +13,14 @@ body{
   float:left;
 }
 
+.floatleft{
+  float:left;
+}
+
+.floatclear{
+  clear: left;
+}
+
 .headermiddle{
   float:left;
   padding-left: 30px;
@@ -22,14 +30,24 @@ body{
   padding-left: 30px;
 }
 .header2{
-  border: 1px solid gray;
+  /* border: 1px solid gray; */
   padding: 20px;
 }
+
+/* .header2 img{
+  float:left;
+} */
+
 
 .header2 span{
   font-size: 30px;
   font-weight: bold;
   font-style: italic;
+}
+
+.header2right{
+  padding-top: 140px;
+  padding-left: 20px;
 }
 
 .objective{
